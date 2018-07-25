@@ -42,7 +42,18 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4EC464</string>
+				<string>#4dd15c</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Quotes</string>
+			<key>scope</key>
+			<string>punctuation.definition.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f961e8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -292,7 +303,6 @@
 	<key>semanticClass</key>
 	<string>theme.dark.easy_going</string>
 	<key>author</key>
-	<string>Jesse</string>
+	<string>muuko</string>
 </dict>
 </plist>
-
